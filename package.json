@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "scripts": {
+      "build": "npm i && mkdir sample && cp -r package.json index.js api sample"
+    }
+  }
